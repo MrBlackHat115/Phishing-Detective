@@ -1,0 +1,90 @@
+urgent
+immediately
+action required
+final notice
+alert
+warning
+suspended
+locked
+restricted
+compromised
+unauthorized
+security alert
+unusual activity
+account
+login
+sign-in
+sign in
+username
+password
+credentials
+verification
+verify
+confirm identity
+authenticate
+two-factor
+2fa
+payment
+billing
+invoice
+refund
+transaction
+charge
+credit card
+debit
+bank
+wallet
+balance
+overdue
+fee
+click
+open
+download
+review
+update
+reset
+secure
+activate
+validate
+respond
+continue
+link
+attachment
+document
+file
+pdf
+invoice attached
+see attached
+open attachment
+congratulations
+winner
+reward
+prize
+gift
+bonus
+exclusive
+offer expires
+limited time
+support
+administrator
+IT team
+security team
+Microsoft
+Apple
+PayPal
+Amazon
+Bank
+IRS
+HR department
+24 hours
+today
+now
+expires
+deadline
+limited time
+legal action
+account termination
+service interruption
+data loss
+access revoked
+permanent suspension
