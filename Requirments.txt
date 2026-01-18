@@ -1,0 +1,10 @@
+transformers
+torch
+pandas
+numpy
+nltk
+spacy
+textblob
+clean-text
+matplotlib
+scikit-learn
